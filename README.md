@@ -1,2 +1,38 @@
 # God.Damn.Awesome.v2-MUSiC
-Auto Updating Music List v2 - The best music out there! 
+
+```
+┌-Music List
+|
+├-Gym
+|  ├-hiphop
+|  ├-rapcore
+|  └-numetal
+|
+├-Cardio
+|  ├-edm
+|  ├-dance
+|  └-house
+|
+├-Hardcore
+|  ├-hardcore
+|  ├-hardrock
+|  └-metal
+|
+├-Crossfit
+|  ├-trap
+|  ├-house
+|  └-pop
+|
+├-Fight
+|  ├-rapcore
+|  ├-raprock
+|  └-hiphop
+|
+└‒Fitness
+   |
+   ├-progressive
+   ├-future
+   └-hiphop
+```
+
+^^ [sCRiPTz-TEAM]
